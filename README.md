@@ -2,6 +2,8 @@
 Java Benchmark for MessagePack vs JSON (Using Jackson)
 
 ## Build 
+`git clone https://github.com/MatteoJoliveau/MessagePack-Benchmark-Java.git`   
+Requires Maven 3+  
 `mvn package`
 
 ## Run
